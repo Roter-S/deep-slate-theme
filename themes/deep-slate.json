@@ -396,6 +396,7 @@
         "search.match_background": "#94e2d53d",
         "search.active_match_background": "#94e2d580",
         "panel.background": "#09090d00",
+        "panel.overlay_background": "#040408d9",
         "panel.focused_border": "#7aa2f7",
         "pane.focused_border": "#7aa2f7",
         "scrollbar.thumb.background": "#8a94b866",
