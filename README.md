@@ -4,7 +4,7 @@ A minimal dark VS Code theme with a near-black background and vivid syntax color
 
 ## Screenshots
 
-![Deep Slate Theme](https://raw.githubusercontent.com/Roter-S/deep-slate-vscode/main/images/screenshot.jpg)
+![Deep Slate Theme](https://github.com/Roter-S/deep-slate-theme/blob/vscode/images/screenshot.jpg)
 
 ## Features
 
