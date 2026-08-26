@@ -2,7 +2,7 @@
   "name": "deep-slate",
   "displayName": "Deep Slate",
   "description": "A dark theme with deep blue-gray tones",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "Roter-S",
   "engines": {
     "vscode": "^1.60.0"
